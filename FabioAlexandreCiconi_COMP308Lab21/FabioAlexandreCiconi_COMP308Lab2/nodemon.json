@@ -1,0 +1,11 @@
+{
+	"watch": [
+		"./"
+	],
+	"ext": "ts",
+	"ignore": [
+		"./node_modules"
+	],
+	"exec": "node --inspect ./server",
+	"delay": "2500"
+}
